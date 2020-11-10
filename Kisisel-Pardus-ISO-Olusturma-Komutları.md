@@ -5,7 +5,7 @@ Resmi Pardus imajları kullanarak kişiselleştirilmiş imaj oluşturmak için g
 * rsync 
 * genisoimage 
 * xorriso 
-*isolinux
+* isolinux
 
 İşlemler Debain 10 (Buster) tabanlı Pardus 19.3 işletim sisteminde uygulanmıştır. Aşağıdaki komutları uygulamadan önce Debian tabanlı işletim sistemlerine biraz aşina olmak gerekir.
 
