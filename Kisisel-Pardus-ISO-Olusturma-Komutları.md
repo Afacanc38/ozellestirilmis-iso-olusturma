@@ -10,7 +10,7 @@ Resmi Pardus imajları kullanarak kişiselleştirilmiş imaj oluşturmak için g
 İşlemler Debain 10 (Buster) tabanlı Pardus 19.3 işletim sisteminde uygulanmıştır. Aşağıdaki komutları uygulamadan önce Debian tabanlı işletim sistemlerine biraz aşina olmak gerekir.
 
 
-## Paketleri güncelleyelim ve gerekli paketleri kuralım;
+Paketleri güncelleyelim ve gerekli paketleri kuralım;
 ```
 sudo apt update
 sudo apt upgrade
