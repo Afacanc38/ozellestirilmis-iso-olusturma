@@ -106,7 +106,7 @@ sudo dd if=Yeni_Imjınızın_Adı.iso of=/dev/sda status="progress"
 Bu yazı aşağıdaki yazıdan yararlanarak düzenlenmiş ve daha okunaklı hale getirilmiştir:
 https://github.com/efeyaryukey75/Pardus-ISO-Duzenleme-ve-Olusturma/blob/master/Kisisel%20Pardus%20ISO%20Olusturma%20Komutlar%C4%B1
 
-SulinOS geliştiricisi Ali Rıza KESKİN
-https://farukomercakmak.gitlab.io
-https://basarmert.blogspot.com/
-https://anadolupanteri.net/author/ramazan-altintop
+* SulinOS geliştiricisi Ali Rıza KESKİN
+* https://farukomercakmak.gitlab.io
+* https://basarmert.blogspot.com/
+* https://anadolupanteri.net/author/ramazan-altintop
