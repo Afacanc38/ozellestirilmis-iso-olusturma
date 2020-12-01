@@ -75,8 +75,9 @@ sudo mksquashfs ~/sistem ~/canlı/live/filesystem.squashfs
 ```
 Dosya sistemi boyutunu güncelleştirelim;
 ```
+kullanici=$("logname")
 sudo su
-printf $(du -sx --block-size=1 ~/sistem | cut -f1) > /home/KullaniciAdiniz/canlı/live/filesystem.size
+printf $(du -sx --block-size=1 ~/sistem | cut -f1) > /home/$kullanici/canlı/live/filesystem.size
 exit
 ```
 Yeni sistemin vmlinuz ve initrd dosyalarını taşıyalım;
