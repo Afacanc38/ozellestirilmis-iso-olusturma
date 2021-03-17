@@ -1,6 +1,6 @@
-# Kişiselleştirilmiş Pardus İmajı Oluşturma
+# Kişiselleştirilmiş Debian İmajı Oluşturma
 
-Resmi Pardus imajları kullanarak kişiselleştirilmiş imaj oluşturmak için gerekli paketler; 
+Resmi Debian imajları kullanarak kişiselleştirilmiş imaj oluşturmak için gerekli paketler; 
 * squashfs-tools 
 * rsync 
 * genisoimage 
