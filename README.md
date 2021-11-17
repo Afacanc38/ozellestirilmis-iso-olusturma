@@ -5,4 +5,6 @@ Debian ISO'sunu chroot ile kişiselleştirmek için kullanılacak komutları iç
 ```
 git clone https://github.com/Afacanc38/ozellestirilmis-iso-olusturma.git
 cd ozellestirilmis-iso-olusturma
-{kullandığınız dosya yöneticisi}
+xdg-open ./Kisisel-Pardus-ISO-Olusturma-Komutları.md
+
+
